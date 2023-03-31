@@ -1,0 +1,142 @@
+{
+  "comidas": [
+    {
+      "nombreComida": "Ensalada de espinacas con fresas",
+      "descripcionComida": "Una ensalada fresca y deliciosa que combina espinacas frescas, fresas maduras, queso de cabra y nueces.",
+      "ingredientesComida": [
+        "Espinacas frescas",
+        "Fresas maduras",
+        "Queso de cabra",
+        "Nueces",
+        "Aceite de oliva",
+        "Vinagre balsámico"
+      ],
+      "informacionNutricional": {
+        "calorias": 200,
+        "grasas": 14,
+        "proteinas": 9,
+        "carbohidratos": 16,
+        "fibra": 6
+      }
+    },
+    {
+      "nombreComida": "Salmón a la parrilla con arroz integral y brócoli",
+      "descripcionComida": "Un plato saludable y sabroso que incluye salmón a la parrilla, arroz integral y brócoli al vapor.",
+      "ingredientesComida": [
+        "Filete de salmón fresco",
+        "Arroz integral",
+        "Brócoli fresco",
+        "Aceite de oliva",
+        "Sal y pimienta"
+      ],
+      "informacionNutricional": {
+        "calorias": 350,
+        "grasas": 12,
+        "proteinas": 28,
+        "carbohidratos": 30,
+        "fibra": 5
+      }
+    },
+    {
+      "nombreComida": "Tostadas de aguacate con huevo",
+      "descripcionComida": "Un desayuno fácil y saludable que consiste en tostadas de pan integral con aguacate fresco y huevo escalfado.",
+      "ingredientesComida": [
+        "Pan integral tostado",
+        "Aguacate fresco",
+        "Huevos",
+        "Sal y pimienta"
+      ],
+      "informacionNutricional": {
+        "calorias": 300,
+        "grasas": 20,
+        "proteinas": 15,
+        "carbohidratos": 20,
+        "fibra": 8
+      }
+    },
+    {
+      "nombreComida": "Ensalada César",
+      "descripcionComida": "Ensalada de lechuga romana, pollo a la parrilla, crutones, queso parmesano y aderezo César",
+      "ingredientesComida": [
+        "lechuga romana",
+        "pollo a la parrilla",
+        "crutones",
+        "queso parmesano",
+        "aderezo César"
+      ],
+      "informacionNutricional": {
+        "calorias": 420,
+        "grasas": 25,
+        "proteinas": 35,
+        "carbohidratos": 16
+      }
+    },
+    {
+      "nombreComida": "Wrap de pavo",
+      "descripcionComida": "Wrap de pavo con espinacas, tomate y mostaza dijon",
+      "ingredientesComida": [
+        "tortilla de trigo integral",
+        "pavo",
+        "espinacas",
+        "tomate",
+        "mostaza dijon"
+      ],
+      "informacionNutricional": {
+        "calorias": 350,
+        "grasas": 8,
+        "proteinas": 25,
+        "carbohidratos": 45
+      }
+    },
+    {
+      "nombreComida": "Bowl de quinoa y vegetales",
+      "descripcionComida": "Bowl de quinoa con brócoli, zanahoria, pimiento y aguacate",
+      "ingredientesComida": [
+        "quinoa cocida",
+        "brócoli",
+        "zanahoria",
+        "pimiento",
+        "aguacate"
+      ],
+      "informacionNutricional": {
+        "calorias": 300,
+        "grasas": 12,
+        "proteinas": 15,
+        "carbohidratos": 40
+      }
+    },
+    {
+      "nombreComida": "Salmón a la plancha con arroz integral",
+      "descripcionComida": "Salmón a la plancha con salsa de soja y limón, servido con arroz integral",
+      "ingredientesComida": [
+        "filete de salmón",
+        "salsa de soja",
+        "limón",
+        "arroz integral"
+      ],
+      "informacionNutricional": {
+        "calorias": 450,
+        "grasas": 20,
+        "proteinas": 30,
+        "carbohidratos": 35
+      }
+    },
+    {
+      "nombreComida": "Ensalada de frutas",
+      "descripcionComida": "Ensalada de frutas frescas con yogur griego y miel",
+      "ingredientesComida": [
+        "manzana",
+        "fresas",
+        "piña",
+        "yogur griego",
+        "miel"
+      ],
+      "informacionNutricional": {
+        "calorias": 250,
+        "grasas": 5,
+        "proteinas": 8,
+        "carbohidratos": 50
+      }
+    }
+  ]
+}
